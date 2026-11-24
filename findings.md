@@ -25,10 +25,10 @@
 - Notable observations:
 - 1.High-value customers were concentrated almost equally
 - between the Central and North regions.
-2.No customers from the South met the high-value criteria,
-  suggesting a potential difference in customer purchasing behaviour or regional sales performance.
-3.Musa Adeyemi was both the highest-spending customer and the customer
-   with the most orders, indicating strong purchasing activity.
+- 2.No customers from the South met the high-value criteria,
+- suggesting a potential difference in customer purchasing behaviour or regional sales - performance.
+- 3.Musa Adeyemi was both the highest-spending customer and the customer
+- with the most orders, indicating strong purchasing activity.
 
 ## 6. Conclusion: 
 The analysis identified North as the highest-revenue region
