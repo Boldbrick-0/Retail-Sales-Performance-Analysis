@@ -38,9 +38,6 @@ The project uses a sample retail dataset containing information about:
 - Date functions
 - NULL handling
 
-## Key Findings
-*To be completed after reviewing the analysis results.*
-
 ## Limitations
 - The dataset is a sample dataset, not actual company transaction data.
 - The analysis focuses on the available data and its reporting period.
